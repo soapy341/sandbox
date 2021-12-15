@@ -1,0 +1,8 @@
+name: PBGC Multilingual
+type: module
+description: "Custom logic for multilingual configuration and content."
+package: PBGC
+core: 8.x | 9.x
+
+dependencies:
+  - language
